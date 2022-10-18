@@ -37,7 +37,7 @@ OR
 
 ### 4. Make the changes by adding the program file.
 
-### 6. Commit the changes
+### 5. Commit the changes
 
 #### `git add .`
 
@@ -45,11 +45,11 @@ OR
 
 #### `git push -u origin <branch_name>`
 
-### 7. Open a [Pull request](https://medium.com/@pragyasapkota/how-to-create-a-pull-request-in-github-a-small-guide-to-beginners-in-hacktober-2022-f4f5ff214542) in your github
+### 6. Open a [Pull request](https://medium.com/@pragyasapkota/how-to-create-a-pull-request-in-github-a-small-guide-to-beginners-in-hacktober-2022-f4f5ff214542) in your github
 
-### 8. Give this project a star
+### 7. Give this project a star
 
-### 9. Have patience till your PR gets reviewed and accepted/merged.
+### 8. Have patience till your PR gets reviewed and accepted/merged.
 
 If you liked working on this project, please share this project as much as you can and star this project to help as many people in opensource as you can.
 
