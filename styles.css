@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+header{
+    position: sticky;
+    top: 0%;
+    background-color: #000;
+    color: #fff;
+    font-size: 1.5rem;
+    padding: 0.5em;
+    text-align: center;
+}
+
+main{
+   min-height:200vh ;
+}
+
+footer{
+   position: sticky;
+    bottom: 0%;
+}
+
+.footer{
+    font-size: 1.5rem;
+    padding: 0.5em;
+    background-color: #CCFF33;
+    text-align: center;
+}
